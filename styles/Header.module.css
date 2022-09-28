@@ -1,0 +1,21 @@
+.navbar{
+    height: 80px;
+    background-color: hotpink;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #f3f3f3;
+    padding: 0px 30px;
+}
+.logo{
+    cursor: pointer;
+}
+.list{
+    display: flex;
+    list-style: none;
+}
+.listItem{
+    color:#f3f3f3;
+    font-weight: bold;
+    margin-right: 15px;
+}
